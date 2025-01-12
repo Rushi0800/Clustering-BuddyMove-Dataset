@@ -40,3 +40,8 @@ Noise Points: Z
 
 clustering output: https://raw.githubusercontent.com/Rushi0800/Clustering-BuddyMove-Dataset/refs/heads/main/results/clustering_output.txt
 
+
+Visualizations:
+K-means: https://raw.githubusercontent.com/Rushi0800/Clustering-BuddyMove-Dataset/refs/heads/main/results/visualizations/kmeans_k2.png
+
+
