@@ -4,8 +4,8 @@ This project applies K-means and DBSCAN clustering techniques to the BuddyMove d
 
 Dataset Name**: BuddyMove  
 Source**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/476/buddymove+data+set)  
-Number of Objects**: 249  
-Attributes**: 7  
+Number of Objects: 249  
+Attributes: 7  
   - 'Userid' (Categorical)
   - 'Sports', 'Religious', 'Nature', 'Theatre', 'Shopping', 'Picnic' (Continuous)
 
