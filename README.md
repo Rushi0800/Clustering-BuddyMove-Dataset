@@ -43,5 +43,6 @@ clustering output: https://raw.githubusercontent.com/Rushi0800/Clustering-BuddyM
 
 Visualizations:
 K-means: https://raw.githubusercontent.com/Rushi0800/Clustering-BuddyMove-Dataset/refs/heads/main/results/visualizations/kmeans_k2.png
+DB-Scan: https://raw.githubusercontent.com/Rushi0800/Clustering-BuddyMove-Dataset/refs/heads/main/results/visualizations/dbscan_eps0.3_min10.png
 
 
